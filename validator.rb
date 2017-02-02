@@ -19,7 +19,7 @@ class Validator
           @results.push (actual - guess).abs
         end
       end
-      puts "finished a user"
+
 
     end
   end
